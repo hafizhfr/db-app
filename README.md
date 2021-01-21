@@ -1,4 +1,3 @@
 # db-app
-Simple database application with PHP
-
-Displaying database with DataTables
+Simple CRUD database management system with PHP.
+Implements DataTables.
